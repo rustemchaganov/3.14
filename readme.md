@@ -12,10 +12,10 @@
    - [git init](./gitinit.md)
    - [git commit](./gitcommit.md)
    - [git clone](./gitclone.md)
-   - [git status](./gitstatus.md)
    - [git diff](./gitdiff.md)
-   - [git push](./gitpush.md)
-4. Со всей документацией *Git* можно ознакомиться [тут](https://git-scm.com/doc)
+   - [git push](./gitpush.md) 
+4. [Получение данных о состоянии репозитория](./gitlog.md) 
+5. Со всей документацией *Git* можно ознакомиться [тут](https://git-scm.com/doc)
 
 
 ---
