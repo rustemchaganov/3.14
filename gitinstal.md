@@ -20,6 +20,7 @@
 $ git --version
 ```
 ![git_linux_install](./assets/git_linux_instal.png)
+
 Для установки *GIT* выполните в терминале команду:
 ```bash
 $ sudo apt install git
