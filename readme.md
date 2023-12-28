@@ -6,16 +6,16 @@
 ### Содержание:
 1. [Что такое Git?](./gitinfo.md)
 2. [Установка Git](./gitinstal.md)
-3. Основные команды *Git*:
-   - [git config](/gitconfig.md)
-   - [git add](./add.md)
-   - [git init](./gitinit.md)
-   - [git commit](./gitcommit.md)
-   - [git clone](./gitclone.md)
-   - [git diff](./gitdiff.md)
-   - [git push](./gitpush.md) 
-4. [Получение данных о состоянии репозитория](./gitlog.md) 
-5. Со всей документацией *Git* можно ознакомиться [тут](https://git-scm.com/doc)
+3. [git config](/gitconfig.md)
+4. [git add](./add.md)
+5. [git init](./gitinit.md)
+6. [git commit](./gitcommit.md)
+7. [git clone](./gitclone.md)
+8. [git diff](./gitdiff.md)
+9. [git push](./gitpush.md) 
+10. [Получение данных о состоянии репозитория](./gitlog.md)
+
+Со всей документацией *Git* можно ознакомиться [тут](https://git-scm.com/doc)
 
 
 ---
